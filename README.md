@@ -13,8 +13,6 @@
 
 # The FTS-OBP Method and EduRABSA_SLM Models
 
-### NOTE:  The download links to the EduRABSA_SLM Models will be provided after the review period.
-
 <br>
 This repository provides the code, datasets, and experimental results for our paper under review. It includes the following resources related to Aspect-based Sentiment Analysis (ABSA), with a focus on education-domain text analysis:
 
@@ -52,6 +50,8 @@ The implementation of this method is available at [./util/absa_evaluator.py](uti
 
 ## The EduRABSA_SLM Model Family
 
+> [!IMPORTANT]
+>  ⚠️ NOTE:  The download links to the EduRABSA_SLM Models will be provided after the review period. ⚠️
 
 The "**EduRABSA_SLM**" model family consists of fine-tuned multi-task small LLMs (SLMs) designed for resource-efficient opinion mining on education-domain reviews of courses, teaching staff, and universities (e.g. student course or teaching evaluations, and open-ended survey responses).
 
